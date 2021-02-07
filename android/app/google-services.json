@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "488250012019",
+    "project_id": "charitable-organizations",
+    "storage_bucket": "charitable-organizations.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488250012019:android:b621a3ac70a4c1a41fd506",
+        "android_client_info": {
+          "package_name": "com.example.charitable_organizations"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488250012019-0c8334qur8p8269ohkbmib720iak87m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ2KhHdKWbex_Z4qUzDm2LwUnBpzRsv1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488250012019-0c8334qur8p8269ohkbmib720iak87m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
